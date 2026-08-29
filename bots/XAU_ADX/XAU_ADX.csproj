@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Proyecto solo para compilar/verificar el cBot con `dotnet build` fuera de cTrader.
+    El HintPath apunta al cAlgo.API.dll que trae instalado cTrader Desktop en esta maquina;
+    si cTrader se actualiza o reinstala, esa carpeta con hash puede cambiar y hay que reapuntarlo.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <AssemblyName>XAU_ADX</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="XAU_ADX.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="cAlgo.API">
+      <HintPath>$(LOCALAPPDATA)\Spotware\cTrader\f0f89e726afc159a4d9efc9acaec479c\app_5.9.10.52744\algohost.netcore\cAlgo.API.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

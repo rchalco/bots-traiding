@@ -1,0 +1,20 @@
+﻿{
+  "Chart": {
+    "Symbol": "XAUUSD",
+    "Period": "m5"
+  },
+  "Parameters": {
+    "Mode": 2,
+    "AdxPeriod": 8,
+    "AdxThreshold": 13.3,
+    "VolumeLots": 0.01,
+    "ScalpingSlPips": 17.7,
+    "ScalpingTpPips": 13.9,
+    "DayTradingSlPips": 23.400000000000002,
+    "DayTradingTpPips": 160.3,
+    "SwingSlPips": 187.4,
+    "SwingTpPips": 875.0,
+    "UseSessionFilter": true,
+    "BotLabel": "XAU_ADX"
+  }
+}
