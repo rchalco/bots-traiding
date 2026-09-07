@@ -1,0 +1,13 @@
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\bin\Debug\net6.0\EURUSD_RSI2_PULLBACK.deps.json
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\bin\Debug\net6.0\EURUSD_RSI2_PULLBACK.dll
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\bin\Debug\net6.0\EURUSD_RSI2_PULLBACK.pdb
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.csproj.AssemblyReference.cache
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.GeneratedMSBuildEditorConfig.editorconfig
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.AssemblyInfoInputs.cache
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.AssemblyInfo.cs
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.csproj.CoreCompileInputs.cache
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.sourcelink.json
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.dll
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\refint\EURUSD_RSI2_PULLBACK.dll
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\EURUSD_RSI2_PULLBACK.pdb
+d:\Proyectos\bots-traiding\bots\EURUSD_RSI2_PULLBACK\obj\Debug\net6.0\ref\EURUSD_RSI2_PULLBACK.dll

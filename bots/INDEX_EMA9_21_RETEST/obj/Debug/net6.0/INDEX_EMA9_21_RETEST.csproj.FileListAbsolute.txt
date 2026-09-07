@@ -1,0 +1,13 @@
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.csproj.AssemblyReference.cache
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.AssemblyInfoInputs.cache
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.AssemblyInfo.cs
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.csproj.CoreCompileInputs.cache
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.sourcelink.json
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\bin\Debug\net6.0\INDEX_EMA9_21_RETEST.deps.json
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\bin\Debug\net6.0\INDEX_EMA9_21_RETEST.dll
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\bin\Debug\net6.0\INDEX_EMA9_21_RETEST.pdb
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.dll
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\refint\INDEX_EMA9_21_RETEST.dll
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\INDEX_EMA9_21_RETEST.pdb
+D:\Proyectos\bots-traiding\bots\INDEX_EMA9_21_RETEST\obj\Debug\net6.0\ref\INDEX_EMA9_21_RETEST.dll

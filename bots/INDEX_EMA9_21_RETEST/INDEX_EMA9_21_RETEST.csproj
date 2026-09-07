@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <AssemblyName>INDEX_EMA9_21_RETEST</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="INDEX_EMA9_21_RETEST.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="cAlgo.API">
+      <HintPath>$(LOCALAPPDATA)\Spotware\cTrader\f0f89e726afc159a4d9efc9acaec479c\app_5.9.10.52744\algohost.netcore\cAlgo.API.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>
