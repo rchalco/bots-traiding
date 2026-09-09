@@ -1,0 +1,27 @@
+<Project>
+
+  <!--
+    Propiedades comunes a los cBots del curso. Cada bot vive en su propia carpeta y se
+    compila como ensamblado independiente: los tres .cs declaran la misma clase
+    (cAlgo.Robots.cBotSingleEMA), asi que no pueden compartir proyecto.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--
+      HintPath al cAlgo.API.dll que trae instalado cTrader Desktop en esta maquina;
+      si cTrader se actualiza o reinstala, esa carpeta con hash cambia y hay que
+      reapuntarlo. Se centraliza aqui para tener un solo punto de cambio.
+    -->
+    <Reference Include="cAlgo.API">
+      <HintPath>$(LOCALAPPDATA)\Spotware\cTrader\f0f89e726afc159a4d9efc9acaec479c\app_5.9.10.52744\algohost.netcore\cAlgo.API.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

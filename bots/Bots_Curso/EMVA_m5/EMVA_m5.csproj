@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Proyecto solo para compilar/verificar el cBot con dotnet build fuera de cTrader. -->
+  <PropertyGroup>
+    <AssemblyName>EMVA_m5</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="EMVA_m5.cs" />
+  </ItemGroup>
+
+</Project>

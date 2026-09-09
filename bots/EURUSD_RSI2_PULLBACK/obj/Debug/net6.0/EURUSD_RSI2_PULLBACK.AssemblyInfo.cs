@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EURUSD_RSI2_PULLBACK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4edf2d55753353976d258fa4104322bdb51f8c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc37bba52b700b34a16ba2309749c57f20c25cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EURUSD_RSI2_PULLBACK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EURUSD_RSI2_PULLBACK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

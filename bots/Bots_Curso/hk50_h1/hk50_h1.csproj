@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Proyecto solo para compilar/verificar el cBot con dotnet build fuera de cTrader. -->
+  <PropertyGroup>
+    <AssemblyName>hk50_h1</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="hk50_h1.cs" />
+  </ItemGroup>
+
+</Project>

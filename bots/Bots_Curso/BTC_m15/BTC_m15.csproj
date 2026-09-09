@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Proyecto solo para compilar/verificar el cBot con dotnet build fuera de cTrader. -->
+  <PropertyGroup>
+    <AssemblyName>BTC_m15</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="BTC_m15.cs" />
+  </ItemGroup>
+
+</Project>
