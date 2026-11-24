@@ -1,0 +1,9 @@
+MarketStructureNas100 V2.1 - trailing monetario virtual
+Base: V2.0, perfil exacto parameters(7).cbotset. No cambia entradas, lotaje fijo 0.20, BOS >10 y <=80, RR estructural 1.5, stop monetario fijo 4 USD.
+Instalar en cTrader Algo como nuevo cBot MarketStructureNas100V21, copiar .cs, Build e importar un perfil .cbotset.
+Control: trailing off; verificar equivalencia con V2.0 antes de comparar. Trailing: activacion $4, piso $0.50, retroceso $4. Moderado: $6/$0.50/$4. Amplio: $8/$0.50/$6.
+Protegido: desactiva bypass historico de riesgo; puede rechazar entradas con capital pequeno. Cuenta real bloqueada.
+Backtest: NAS100 M5, 01/06/2026-23/11/2026, $200, mismas condiciones M1/spread 1/comisiones 0 para comparacion; repetir todos con ticks y costos representativos.
+Trailing: OnTick, por PositionId, neto de cuenta; floor=max(piso, peak-retroceso), nunca baja. Se mantiene SL y TP original en servidor. Al cruzar floor solicita cierre y reintenta si falla. El stop de perdida sigue activo. No garantiza precio ni neto final. No es trailing nativo de broker. Estado en memoria; reinicio pierde pico anterior y recupera desde neto actual. No migrar posiciones abiertas entre versiones. No opera en cuentas reales.
+Logs: TRAIL_CONFIG, TRAIL_ARMED, TRAIL_TRIGGER, TRAIL_CLOSED, TRAIL_RETRY, TRAIL_SUMMARY. Cierres aceptados no equivalen a ganancias garantizadas; consultar historial. Modo diagnostico conserva limite diario retrospectivo de V2.0.
+Validacion: comparacion estatica y pruebas de referencia de la regla; compilacion y backtesting cTrader pendientes.

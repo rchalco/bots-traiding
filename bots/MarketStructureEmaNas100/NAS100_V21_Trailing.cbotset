@@ -1,0 +1,34 @@
+{
+  "Chart": {
+    "Symbol": "NAS100",
+    "Period": "m5"
+  },
+  "Parameters": {
+    "TrendPeriod": "200",
+    "PivotWidth": "2",
+    "StopBufferPips": "2",
+    "FixedLots": "0.2",
+    "RiskPct": "0.5",
+    "MaxLossMoney": "4",
+    "DynamicMoneyStop": "False",
+    "MinLossMoney": "2",
+    "MoneyAtrPeriod": "14",
+    "MoneyAtrMultiplier": "1",
+    "MoneyEquityCapPct": "2",
+    "RewardRisk": "1.5",
+    "DailyLossPct": "2",
+    "MaxTrades": "3",
+    "MaxSpreadPips": "3",
+    "SlippagePips": "2",
+    "SignalsOnly": "False",
+    "IgnoreRiskInBacktest": "True",
+    "SmokeTest": "False",
+    "MinBreakoutPips": "10",
+    "MaxBreakoutPips": "80",
+    "BrokerMoneyStop": "False",
+    "EnableProfitLock": "True",
+    "ProfitLockActivation": "4",
+    "MinimumProtectedProfit": "0.5",
+    "ProfitGiveback": "4"
+  }
+}
